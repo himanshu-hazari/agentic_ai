@@ -3,3 +3,7 @@ python-dotenv
 langchain-community 
 langchain 
 ollama
+langchain-ollama
+langchain-core
+langgraph
+streamlit
